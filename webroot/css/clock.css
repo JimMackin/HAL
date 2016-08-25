@@ -1,0 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+#clock{
+
+	font:56px "Open Sans", sans-serif;
+	color:hsl(0,0%,25%);
+}
