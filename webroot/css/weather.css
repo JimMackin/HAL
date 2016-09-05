@@ -1,4 +1,14 @@
 .wi{
-    color: white;
-    font-size: 56px;
+    color: black;
+    font-size: 75px;
+}
+.temperature{
+    font-size: 32px;
+}
+
+.weatherDescription{
+    font-size: 32px;
+}
+.weatherTime{
+    font-size: 64px;
 }
